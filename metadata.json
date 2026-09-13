@@ -1,0 +1,6 @@
+{
+  "name": "Crossword Quest: 50 Levels",
+  "description": "A 50-level progressive crossword puzzle adventure ranging from gentle 5x5 introductory grids to epic 13x13 cryptic master challenges, featuring milestone challenge rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
